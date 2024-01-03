@@ -5,3 +5,13 @@
    height: 400vh;
    
 
+.hero,h1{
+  color: azure;
+  font: size 100px;
+  text-align:center;
+  font-weight: 900;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 20px;
+  word-spacing: 20px;
+}
+}
